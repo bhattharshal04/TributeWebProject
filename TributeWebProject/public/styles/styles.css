@@ -1,0 +1,60 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+html {
+	font-family: macondo, calibri;
+}
+
+main {
+	background-color: #C7B446;
+}
+
+header {
+	text-align: center;
+}
+
+#img-div {
+	text-align: center;
+	margin: 20px;
+	background-color: white;
+}
+
+#image {
+	text-align: center;
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+}
+
+#img-caption {
+	margin: 15px 0 5px 0;
+}
+
+#info-header {
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	padding: 30px;
+}
+
+ul {
+	max-width: 550px;
+	margin: 0 auto 50px auto;
+	text-align: left;
+	line-height: 1.6;
+}
+
+li {
+	margin: 16px 0;
+}
+
+#wiki-link {
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+a:visited {
+	color: green;
+}
